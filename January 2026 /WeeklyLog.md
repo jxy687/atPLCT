@@ -1,6 +1,6 @@
 # January 2026
 
-### Completed a test case report for ruyisdk-eclipse-plugins [测试文档](https://github.com/jxy687/ruyisdk-eclipse-plugins-test/blob/main/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3.md)
+### Completed a test case report for ruyisdk-eclipse-plugins [测试文档](https://github.com/jxy687/ruyisdk-eclipse-plugins-test-v0.1.0/blob/main/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3.md)
 - Add the test case report for ruyisdk-eclipse-plugins [v0.1.0](https://github.com/ruyisdk/ruyisdk-eclipse-plugins/commit/7cd298ba0b7dfb557898560f59ecf027423577be).
 	- RuyiSDK Management
 	- Package Management
