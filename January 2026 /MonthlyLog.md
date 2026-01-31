@@ -9,7 +9,7 @@
 	- Conducted manual testing for 12 cases across News Feed and Virtual Environments.
 	- Based on commit [3e669eb](https://github.com/ruyisdk/ruyisdk-eclipse-plugins/commit/3e669ebb3961b948a4dd242fe9a404ad7bb1306f).
 
-## 2. Issues & Feedback
+## 2. Issues
 ### Issue #92 [ruyisdk/ruyisdk-eclipse-plugins#92](https://github.com/ruyisdk/ruyisdk-eclipse-plugins/issues/92)
 - Reported initial bugs and optimization feedback found during v0.1.0 testing.
 
