@@ -24,3 +24,13 @@
 - **Snake-Game**：[构建文档](https://github.com/jxy687/Docs/tree/main/Snake)
   - 使用 RuyiSDK 创建虚拟环境，并向 sysroot 添加 SDL 依赖，成功构建项目
   - 项目源代码 [CppND-Capstone-Snake-Game](https://github.com/udacity/CppND-Capstone-Snake-Game)
+
+ ### 使用 qemu 里面的 openEuler 构建项目
+- **2048**：[构建文档](https://github.com/jxy687/Net-word/blob/main/Games/2048.md)
+  - 使用 openEuler，成功运行
+  - 项目源代码 [2048.c](https://github.com/mevdschee/2048.c)
+
+- **Snake-Game**：[构建文档](https://github.com/jxy687/Net-word/blob/main/Games/snake.md)
+  - 使用 openEuler，成功运行
+  - 项目源代码 [CppND-Capstone-Snake-Game](https://github.com/udacity/CppND-Capstone-Snake-Game)
+
