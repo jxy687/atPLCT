@@ -1,6 +1,6 @@
 ## 文档
 ### 使用 RuyiSDK 构建项目
-- **PVZ**：[构建文档](https://github.com/jxy687/Docs/blob/main/PVZ/main.md)
+- **PVZ**：[构建文档](./PVZ/main.md)
     - 使用 RuyiSDK 创建虚拟环境并构建项目，成功运行
     - 项目源代码 [PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable.git)
 

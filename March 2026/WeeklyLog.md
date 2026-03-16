@@ -1,6 +1,6 @@
 ## 文档
 ### 使用 RuyiSDK 构建项目
-- **SDLShooter**：[构建文档](https://github.com/jxy687/Docs/blob/main/Shooter/RuyiSDk-Shooter.md)
+- **SDLShooter**：[构建文档](./SDLShooter/RuyiSDk-Shooter.md)
   - 使用 RuyiSDK 创建虚拟环境并构建项目，成功运行
   - 项目源代码 [SDLShooter](https://github.com/WispSnow/SDLShooter.git)
 

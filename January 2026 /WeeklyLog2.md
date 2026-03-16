@@ -1,6 +1,6 @@
 # January 2026
 
-### Completed a test case report for ruyisdk-eclipse-plugins v0.1.1 [Test Document](https://github.com/jxy687/ruyisdk-eclipse-plugins-test-v0.1.1)
+### Completed a test case report for ruyisdk-eclipse-plugins v0.1.1 [Test Document](./v0.1.1/README.md)
 - Conducted manual testing for ruyisdk-eclipse-plugins at commit [3e669eb](https://github.com/ruyisdk/ruyisdk-eclipse-plugins/commit/3e669ebb3961b948a4dd242fe9a404ad7bb1306f).
 	- Tested 12 cases across RuyiSDK Management, News Feed, and Virtual Environments.
 
