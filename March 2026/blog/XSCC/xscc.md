@@ -19,7 +19,7 @@ ruyi install xscc
 ## 使用 xscc 编译游戏
 ### 获取游戏项目
 ```
-git clone https://github.com/troglobit/tetris.git
+git clone https://github.com/jxy687/tetris.git
 ```
 ### 使用 Eclipse 打开
 找到顶部菜单栏：File -> Open Projects from File System...
@@ -30,7 +30,7 @@ git clone https://github.com/troglobit/tetris.git
 ![打开终端](images/2026-03-12-14-57-16.png)
 - 输入下面的命令,即可创建虚拟环境`xscc-venv`
 ```
-ruyi venv -t xscc --sysroot-from gnu-plct-xthead generic -e qemu-user-riscv-xthead  ./xscc-venv
+ruyi venv -t xscc --sysroot-from gnu-upstream generic -e qemu-user-riscv-upstream ./xscc-venv
 ```
 
 ### 激活环境并编译游戏
@@ -59,7 +59,7 @@ git clone https://github.com/mevdschee/2048.c.git
 
 cd 2048.c
 
-ruyi venv -t xscc --sysroot-from gnu-plct-xthead generic -e qemu-user-riscv-xthead  ./xscc-venv
+ruyi venv -t xscc --sysroot-from gnu-upstream generic -e qemu-user-riscv-upstream ./xscc-venv
 
 source ./xscc-venv/bin/ruyi-activate
 
