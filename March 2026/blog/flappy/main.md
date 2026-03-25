@@ -1,6 +1,6 @@
-使用 ruyisdk 创建虚拟环境编译并游玩 flappy
+使用 RuyiSDK 创建虚拟环境编译并游玩 Flappy Bird
 
-本文介绍基于ruyiSDK创建 RISC-V 虚拟环境，搭配Buildroot制作含 SDL2 的 sysroot，交叉编译 Flappy Bird 游戏，最终通过ruyi-qemu在主机上运行游玩的完整流程，实现无开发板跨平台编译验证。
+本文介绍基于 RuyiSDK 创建 RISC-V 虚拟环境，搭配 Buildroot 制作含 SDL2 的 sysroot，交叉编译 Flappy Bird 游戏，最终通过 ruyi-qemu 在主机上运行游玩的完整流程，实现无开发板跨平台编译验证。
 
 ## 开始
 
@@ -21,7 +21,7 @@ git clone https://github.com/buildroot/buildroot.git
 
 cd ./buildroot
 ```
-### 使用 ruyisdk 创建虚拟环境
+### 使用 RuyiSDK 创建虚拟环境
 ```
 ruyi venv -t gnu-plct-xthead -e qemu-user-riscv-xthead sipeed-lpi4a ./sipeed-xthead-venv
 ```
