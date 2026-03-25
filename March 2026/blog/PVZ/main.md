@@ -1,6 +1,6 @@
-使用 ruyisdk 创建虚拟环境编译并游玩 PVZ
+使用 RuyiSDK 创建虚拟环境编译并游玩 PVZ
 
-本文档详细介绍了在RISC-V 架构下，通过ruyisdk工具链完成 PVZ 植物大战僵尸移植版编译运行的全流程：首先克隆项目源码，使用 ruyisdk 创建指定类型的 RISC-V 虚拟环境；为满足游戏依赖，手动交叉编译libopenmpt-dev库并安装至虚拟环境 sysroot；通过 cmake 完成项目编译配置与构建；补充游戏所需版权文件后，激活虚拟环境，借助 qemu 模拟器成功运行 RISC-V 架构的 PVZ 移植版游戏。
+本文档详细介绍了在RISC-V 架构下，通过 RuyiSDK 工具链完成 PVZ 植物大战僵尸移植版编译运行的全流程：首先克隆项目源码，使用 RuyiSDK 创建指定类型的 RISC-V 虚拟环境；为满足游戏依赖，手动交叉编译 libopenmpt-dev 库并安装至虚拟环境 sysroot；通过 cmake 完成项目编译配置与构建；补充游戏所需版权文件后，激活虚拟环境，借助 qemu 模拟器成功运行 RISC-V 架构的 PVZ 移植版游戏。
 
 ## 开始
 
